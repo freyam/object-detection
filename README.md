@@ -13,4 +13,4 @@ Kaggle Link: https://www.kaggle.com/freyam/object-detection/
 
 ![](objectified-table.jpg)
 
-Special Thanks to [@iamsahil007](https://github.com/imsahil007) for introducing me to YOLO!
+Special Thanks to [Sahil](https://github.com/imsahil007) for introducing me to YOLO!
